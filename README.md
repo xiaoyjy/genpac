@@ -17,8 +17,8 @@ $ pip uninstall genpac
 or
 
 ```shell
-$ pip install -e git+https://github.com/JinnLynn/genpac.git#egg=genpac
-$ pip install --upgrade -e git+https://github.com/JinnLynn/genpac.git#egg=genpac
+$ pip install -e git+https://github.com/xiaoyjy/genpac.git#egg=genpac
+$ pip install --upgrade -e git+https://github.com/xiaoyjy/genpac.git#egg=genpac
 ```
 
 ### Usage
